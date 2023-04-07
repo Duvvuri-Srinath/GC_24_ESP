@@ -4,7 +4,7 @@ using namespace std;
 #define ll long long
 #define int long long
  
-const ll MOD = 998244353;
+const ll MOD = 1000000007;
 const int MP = 200010;
  
 ll pw[MP], ip[MP];
